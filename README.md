@@ -32,7 +32,7 @@ Here there are many cases when the word present in test data is not there in the
 Hence we gave an initial value of 0.0000001 to all the probabilities as the probabilities that are generated won’t be affected and it won’t get zero and so the labels will be predicted right for the remaining of the words in the test sentence. 
 
 Result :
-![Result](part1/1st.png)
+![Result](1st.png)
 
 
 
@@ -44,7 +44,7 @@ For that we did some pre-processing from the data and learned from the data set 
 Hence so after that we assigned the probability of a word being noun as 0.01 and other than that we assigned 0.0000001 and got much  improved results than what we had previously obtained. 
 
 Result :
-![Result](part1/2nd.png)
+![Result](2nd.png)
 
 ￼
 
@@ -89,7 +89,7 @@ Here there are many cases when the word present in test data is not there in the
 Hence we gave an initial value of 0.0000001 to all the probabilities as the probabilities that are generated won’t be affected and it won’t get zero and so the labels will be predicted right for the remaining of the words in the test sentence. 
 
 Result :
-![Result](part1/1st.png)
+![Result](1st.png)
 
 
 
